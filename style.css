@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #ffcf00 !important;
+}
+.navbar-brand{
+    width: 55px;
+    height: 55px;
+}
+.search{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.navUnder:hover{
+    text-decoration: underline;
+}
+.alp{
+    background-image: url(https://www.lego.com/cdn/cs/set/assets/blt20ae860340d2224c/Modular-Page-2308-Hero-Snow-Standard-Large.jpg?fit=crop&format=jpg&quality=80&width=1600&height=500&dpr=1);
+    background-size: contain;
+    width: 1600px;
+    height: 500px;
+}
+.bilgi:hover{
+    background-color: black !important;
+    color: white !important;
+}
+.uclu{
+    width: 415px;
+}
+.harry{
+    background-image: url(https://www.lego.com/cdn/cs/set/assets/blt7ee404cd86303385/76417-Waterfall-202309-Home-SL-Hero-Standard-Large.jpg?fit=crop&format=jpg&quality=80&width=1600&height=500&dpr=1);
+    background-size: contain;
+    width: 1600px;
+    height: 500px;
+}
